@@ -1,11 +1,16 @@
 _repo: Ground-Tumbling_55750
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55750-h/images/cover.jpg
 creator:
   author:
     agent_name: Worth, Henry Walter
     gutenberg_agent_id: '48491'
     url: http://www.gutenberg.org/2009/agents/48491
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55750#Ground-Tumbling
 gutenberg_issued: '2017-10-14'
 gutenberg_type: Text
 identifiers:
